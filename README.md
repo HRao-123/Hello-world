@@ -1,2 +1,3 @@
 # Hello-world
-My first repository
+My first repository - helped by Kiran R!
+Hello World!
